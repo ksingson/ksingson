@@ -58,7 +58,7 @@ Data Quality Senior Associate with hands-on experience in data validation and au
 * Strengthening SQL (joins, CTEs, window functions)
 * Building end-to-end data projects (Excel → SQL → Power BI)
 * Improving data storytelling and dashboard design
--->
+
 ---
 
 ## 📫 Connect With Me
@@ -67,7 +67,7 @@ Data Quality Senior Associate with hands-on experience in data validation and au
 * Email: [Your Email]
 
 ---
-
+-->
 ---
 
 <!--
