@@ -67,9 +67,9 @@ Data Quality Senior Associate with hands-on experience in data validation and au
 * Email: [Your Email]
 
 ---
--->
----
 
+---
+-->
 <!--
 **ksingson/ksingson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
