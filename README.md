@@ -1,10 +1,11 @@
 # Hi, my name is Kim! 👋
-<br>
-* Hands-on experience in data validation and automation, especially for Data Quality <br>
-* Learning and experimenting in Data Analysis <br>
+
+---
+
+### 👽 About Myself
+* Hands-on experience in data validation and automation in Google Workspace
+* Learning and experimenting in Data Analysis
 * Focused on transforming raw data into actionable insights using Excel, SQL, and Power BI.
-
-
 
 ---
 
