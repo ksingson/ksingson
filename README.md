@@ -1,8 +1,8 @@
 # Hi, I'm Kimberly Nicole Singson
 
-😎 Have hands-on experience in data validation and automation
-👉 Transitioning into a Data Analyst role
-✨ Focused on transforming raw data into actionable insights using Excel, SQL, and Power BI.
+* 😎 Have hands-on experience in data validation and automation
+* 👉 Transitioning into a Data Analyst role
+* ✨ Focused on transforming raw data into actionable insights using Excel, SQL, and Power BI.
 
 ---
 
