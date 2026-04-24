@@ -1,6 +1,8 @@
 # Hi, I'm Kimberly Nicole Singson
 
-Data Quality Senior Associate with hands-on experience in data validation and automation, transitioning into a Data Analyst rolee, focused on transforming raw data into actionable insights using Excel, SQL, and Power BI.
+😎 Have hands-on experience in data validation and automation
+👉 Transitioning into a Data Analyst role
+✨ Focused on transforming raw data into actionable insights using Excel, SQL, and Power BI.
 
 ---
 
@@ -21,6 +23,15 @@ Data Quality Senior Associate with hands-on experience in data validation and au
 * Analyzed and validated data using Google Sheets to identify errors and inconsistencies
 * Automated repetitive data tasks using Apps Script, improving workflow efficiency
 * Collaborated with cross-functional teams using Jira and ClickUp to manage data-related tasks
+
+---
+
+## 📈 Current Focus
+
+* Strengthening SQL (joins, CTEs, window functions)
+* Building end-to-end data projects (Excel → SQL → Power BI)
+* Improving data storytelling and dashboard design
+
 
 ---
 <!--
