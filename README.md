@@ -1,12 +1,14 @@
-# Hi, I'm Kimberly Nicole Singson
+# Hi, my name is Kim! 👋
+<br>
+* Hands-on experience in data validation and automation, especially for Data Quality <br>
+* Learning and experimenting in Data Analysis <br>
+* Focused on transforming raw data into actionable insights using Excel, SQL, and Power BI.
 
-* 😎 Hands-on experience in data validation and automation, especially for Data Quality
-* 👉 Transitioning into a Data Analyst role
-* ✨ Focused on transforming raw data into actionable insights using Excel, SQL, and Power BI.
+
 
 ---
 
-## 🧰 Tools & Skills
+### 🧰 Tools & Skills
 
 * **Data Analysis:** SQL, Microsoft Excel, Google Sheets
 * **Data Visualization:** Microsoft Power BI
@@ -15,7 +17,7 @@
 
 ---
 
-## 💼 Relevant Experience
+### 💼 Relevant Experience
 
 **Data Quality Senior Associate**
 
@@ -26,7 +28,7 @@
 
 ---
 
-## 📈 Current Focus
+### 📈 Current Focus
 
 * Strengthening SQL (joins, CTEs, window functions)
 * Building end-to-end data projects (Excel → SQL → Power BI)
