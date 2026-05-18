@@ -11,9 +11,9 @@
 
 ### 🧰 Tools & Skills
 
-* **Data Analysis:** SQL, Microsoft Excel, Google Sheets
+* **Data Analysis:** Google Sheets, Microsoft Excel, SQL
 * **Data Visualization:** Microsoft Power BI
-* **Automation:** Google Apps Script
+* **Automation:** Google Apps Script, Python
 * **Other Skills:** Data Cleaning, Reporting, Dashboard Design
 
 ---
